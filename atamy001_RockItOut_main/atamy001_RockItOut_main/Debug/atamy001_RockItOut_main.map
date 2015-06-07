@@ -1,0 +1,689 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+                              atamy001_RockItOut_main.o (__udivmodsi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o (exit)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+                              atamy001_RockItOut_main.o (__tablejump2__)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                              atamy001_RockItOut_main.o (__do_copy_data)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                              atamy001_RockItOut_main.o (__do_clear_bss)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+                              atamy001_RockItOut_main.o (__umulhisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+SM2_state           0x1               atamy001_RockItOut_main.o
+SM1_state           0x1               atamy001_RockItOut_main.o
+LED_matrix_pos      0x40              atamy001_RockItOut_main.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+ .text          0x00000000        0x0 atamy001_RockItOut_main.o
+ .data          0x00000000        0x0 atamy001_RockItOut_main.o
+ .bss           0x00000000        0x0 atamy001_RockItOut_main.o
+ .text.SetBit   0x00000000       0x30 atamy001_RockItOut_main.o
+ .text.GetBit   0x00000000       0x14 atamy001_RockItOut_main.o
+ .text.TimerSet
+                0x00000000       0x22 atamy001_RockItOut_main.o
+ .text.TimerOff
+                0x00000000        0x6 atamy001_RockItOut_main.o
+ .text.TimerISR
+                0x00000000        0x8 atamy001_RockItOut_main.o
+ .text.USART_IsSendReady
+                0x00000000        0x8 atamy001_RockItOut_main.o
+ .text.USART_HasTransmitted
+                0x00000000        0x8 atamy001_RockItOut_main.o
+ .text.USART_HasReceived
+                0x00000000        0x8 atamy001_RockItOut_main.o
+ .text.USART_Flush
+                0x00000000       0x1e atamy001_RockItOut_main.o
+ .text.USART_Send
+                0x00000000       0x10 atamy001_RockItOut_main.o
+ .text.findGCD  0x00000000       0x5a atamy001_RockItOut_main.o
+ .text.LED_matrix3
+                0x00000000       0x6a atamy001_RockItOut_main.o
+ .bss.dummy.1702
+                0x00000000        0x1 atamy001_RockItOut_main.o
+ .rodata.game_hb_size
+                0x00000000        0x2 atamy001_RockItOut_main.o
+ .rodata.hb_lyrics2
+                0x00000000       0x1c atamy001_RockItOut_main.o
+ .rodata.hb_lyrics1
+                0x00000000       0x16 atamy001_RockItOut_main.o
+ .rodata.string_menu_credit
+                0x00000000        0x8 atamy001_RockItOut_main.o
+ .rodata.string_menu_instructions
+                0x00000000        0xd atamy001_RockItOut_main.o
+ .rodata.string_menu_live_frequency
+                0x00000000       0x11 atamy001_RockItOut_main.o
+ .bss.data_char
+                0x00000000        0x1 atamy001_RockItOut_main.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x44 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x0000ff00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+LOAD atamy001_RockItOut_main.o
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xdce
+ *(.vectors)
+ .vectors       0x00000000       0x8c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.SM1Menu
+                0x0000008c       0x38 atamy001_RockItOut_main.o
+                0x000000c4                . = ALIGN (0x2)
+                0x000000c4                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000c4        0x0 linker stubs
+ *(.trampolines*)
+                0x000000c4                __trampolines_end = .
+ *(.progmem*)
+                0x000000c4                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c4                __ctors_start = .
+ *(.ctors)
+                0x000000c4                __ctors_end = .
+                0x000000c4                __dtors_start = .
+ *(.dtors)
+                0x000000c4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000c4        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+                0x000000c4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000c4        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000d0       0x1a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                0x000000d0                __do_copy_data
+ .init4         0x000000ea       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                0x000000ea                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000fa        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+ *(.init9)
+ *(.text)
+ .text          0x000000fe        0x2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm1284.o
+                0x000000fe                __vector_22
+                0x000000fe                __vector_28
+                0x000000fe                __vector_1
+                0x000000fe                __vector_32
+                0x000000fe                __vector_34
+                0x000000fe                __vector_24
+                0x000000fe                __vector_12
+                0x000000fe                __bad_interrupt
+                0x000000fe                __vector_6
+                0x000000fe                __vector_31
+                0x000000fe                __vector_3
+                0x000000fe                __vector_23
+                0x000000fe                __vector_30
+                0x000000fe                __vector_25
+                0x000000fe                __vector_11
+                0x000000fe                __vector_17
+                0x000000fe                __vector_19
+                0x000000fe                __vector_7
+                0x000000fe                __vector_27
+                0x000000fe                __vector_5
+                0x000000fe                __vector_33
+                0x000000fe                __vector_4
+                0x000000fe                __vector_9
+                0x000000fe                __vector_2
+                0x000000fe                __vector_21
+                0x000000fe                __vector_15
+                0x000000fe                __vector_29
+                0x000000fe                __vector_8
+                0x000000fe                __vector_26
+                0x000000fe                __vector_14
+                0x000000fe                __vector_10
+                0x000000fe                __vector_16
+                0x000000fe                __vector_18
+                0x000000fe                __vector_20
+                0x00000100                . = ALIGN (0x2)
+ *(.text.*)
+ .text.SM2Game  0x00000100      0x10e atamy001_RockItOut_main.o
+                0x00000100                SM2Game
+ .text.TimerOn  0x0000020e       0x48 atamy001_RockItOut_main.o
+                0x0000020e                TimerOn
+ .text.__vector_13
+                0x00000256       0x78 atamy001_RockItOut_main.o
+                0x00000256                __vector_13
+ .text.delay_ms
+                0x000002ce       0x2e atamy001_RockItOut_main.o
+                0x000002ce                delay_ms
+ .text.LCD_WriteCommand
+                0x000002fc       0x12 atamy001_RockItOut_main.o
+                0x000002fc                LCD_WriteCommand
+ .text.LCD_ClearScreen
+                0x0000030e        0x6 atamy001_RockItOut_main.o
+                0x0000030e                LCD_ClearScreen
+ .text.LCD_Cursor
+                0x00000314       0x10 atamy001_RockItOut_main.o
+                0x00000314                LCD_Cursor
+ .text.LCD_init
+                0x00000324       0x1e atamy001_RockItOut_main.o
+                0x00000324                LCD_init
+ .text.LCD_WriteData
+                0x00000342       0x12 atamy001_RockItOut_main.o
+                0x00000342                LCD_WriteData
+ .text.LCD_DisplayString
+                0x00000354       0x2c atamy001_RockItOut_main.o
+                0x00000354                LCD_DisplayString
+ .text.SM1Menu  0x00000380      0x626 atamy001_RockItOut_main.o
+                0x00000380                SM1Menu
+ .text.initUSART
+                0x000009a6       0x20 atamy001_RockItOut_main.o
+                0x000009a6                initUSART
+ .text.USART_Receive
+                0x000009c6       0x10 atamy001_RockItOut_main.o
+                0x000009c6                USART_Receive
+ .text.serial_input
+                0x000009d6       0x3c atamy001_RockItOut_main.o
+                0x000009d6                serial_input
+ .text.init_LED_matrix
+                0x00000a12       0x1e atamy001_RockItOut_main.o
+                0x00000a12                init_LED_matrix
+ .text.transmit_data2
+                0x00000a30       0x40 atamy001_RockItOut_main.o
+                0x00000a30                transmit_data2
+ .text.transmit_data
+                0x00000a70       0x48 atamy001_RockItOut_main.o
+                0x00000a70                transmit_data
+ .text.LED_matrix2
+                0x00000ab8       0x6c atamy001_RockItOut_main.o
+                0x00000ab8                LED_matrix2
+ .text.SM4LEDMatrix
+                0x00000b24       0x94 atamy001_RockItOut_main.o
+                0x00000b24                SM4LEDMatrix
+ .text.main     0x00000bb8      0x1e8 atamy001_RockItOut_main.o
+                0x00000bb8                main
+ .text.libgcc   0x00000da0        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+                0x00000da0                __tablejump2__
+                0x00000da4                __tablejump__
+ .text.libgcc.mul
+                0x00000dac       0x1e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+                0x00000dac                __umulhisi3
+                0x00000dca                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000dca        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                0x00000dca                _exit
+                0x00000dca                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000dca        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000dce                _etext = .
+
+.data           0x00800100       0xd0 load address 0x00000dce
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.margin_error
+                0x00800100        0x2 atamy001_RockItOut_main.o
+                0x00800100                margin_error
+ .data._avr_timer_M
+                0x00800102        0x4 atamy001_RockItOut_main.o
+                0x00800102                _avr_timer_M
+ *(.rodata)
+ .rodata        0x00800106        0x8 atamy001_RockItOut_main.o
+ *(.rodata*)
+ .rodata.game_hb_timing
+                0x0080010e       0x34 atamy001_RockItOut_main.o
+                0x0080010e                game_hb_timing
+ .rodata.game_hb
+                0x00800142       0x34 atamy001_RockItOut_main.o
+                0x00800142                game_hb
+ .rodata.musical_scale
+                0x00800176       0x10 atamy001_RockItOut_main.o
+                0x00800176                musical_scale
+ .rodata.string_menu_settings
+                0x00800186        0x9 atamy001_RockItOut_main.o
+                0x00800186                string_menu_settings
+ .rodata.string_points
+                0x0080018f        0x9 atamy001_RockItOut_main.o
+                0x0080018f                string_points
+ .rodata.string_game_over
+                0x00800198        0xa atamy001_RockItOut_main.o
+                0x00800198                string_game_over
+ .rodata.string_menu_songs_hb
+                0x008001a2        0xf atamy001_RockItOut_main.o
+                0x008001a2                string_menu_songs_hb
+ .rodata.string_menu_songs
+                0x008001b1        0x6 atamy001_RockItOut_main.o
+                0x008001b1                string_menu_songs
+ .rodata.init_intro2
+                0x008001b7        0xb atamy001_RockItOut_main.o
+                0x008001b7                init_intro2
+ .rodata.init_intro
+                0x008001c2        0xd atamy001_RockItOut_main.o
+                0x008001c2                init_intro
+ *(.gnu.linkonce.d*)
+                0x008001d0                . = ALIGN (0x2)
+ *fill*         0x008001cf        0x1 
+                0x008001d0                _edata = .
+                0x008001d0                PROVIDE (__data_end, .)
+
+.bss            0x008001d0       0x84
+                0x008001d0                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.task4.1890
+                0x008001d0        0xb atamy001_RockItOut_main.o
+ .bss.task3.1889
+                0x008001db        0xb atamy001_RockItOut_main.o
+ .bss.task2.1888
+                0x008001e6        0xb atamy001_RockItOut_main.o
+ .bss.task1.1887
+                0x008001f1        0xb atamy001_RockItOut_main.o
+ .bss.frequency_input
+                0x008001fc        0x2 atamy001_RockItOut_main.o
+                0x008001fc                frequency_input
+ .bss.points    0x008001fe        0x2 atamy001_RockItOut_main.o
+                0x008001fe                points
+ .bss.stepCount
+                0x00800200        0x2 atamy001_RockItOut_main.o
+                0x00800200                stepCount
+ .bss.gameStep  0x00800202        0x2 atamy001_RockItOut_main.o
+                0x00800202                gameStep
+ .bss.gameOver  0x00800204        0x1 atamy001_RockItOut_main.o
+                0x00800204                gameOver
+ .bss.startGame
+                0x00800205        0x1 atamy001_RockItOut_main.o
+                0x00800205                startGame
+ .bss.tmpA      0x00800206        0x1 atamy001_RockItOut_main.o
+                0x00800206                tmpA
+ .bss.data2     0x00800207        0x1 atamy001_RockItOut_main.o
+                0x00800207                data2
+ .bss.data      0x00800208        0x1 atamy001_RockItOut_main.o
+                0x00800208                data
+ .bss.usart_reading2
+                0x00800209        0x1 atamy001_RockItOut_main.o
+                0x00800209                usart_reading2
+ .bss.usart_reading1
+                0x0080020a        0x1 atamy001_RockItOut_main.o
+                0x0080020a                usart_reading1
+ .bss.usart_reading_total
+                0x0080020b        0x2 atamy001_RockItOut_main.o
+                0x0080020b                usart_reading_total
+ .bss._avr_timer_cntcurr
+                0x0080020d        0x4 atamy001_RockItOut_main.o
+                0x0080020d                _avr_timer_cntcurr
+ .bss.TimerFlag
+                0x00800211        0x1 atamy001_RockItOut_main.o
+                0x00800211                TimerFlag
+ *(COMMON)
+ COMMON         0x00800212       0x42 atamy001_RockItOut_main.o
+                0x00800212                SM2_state
+                0x00800213                SM1_state
+                0x00800214                LED_matrix_pos
+                0x00800254                PROVIDE (__bss_end, .)
+                0x00000dce                __data_load_start = LOADADDR (.data)
+                0x00000e9e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800254        0x0
+                0x00800254                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800254                PROVIDE (__noinit_end, .)
+                0x00800254                _end = .
+                0x00800254                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 atamy001_RockItOut_main.o
+                                 0x31 (size before relaxing)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x118
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x118 atamy001_RockItOut_main.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x1057
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1057 atamy001_RockItOut_main.o
+
+.debug_abbrev   0x00000000      0x368
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x368 atamy001_RockItOut_main.o
+
+.debug_line     0x00000000      0xaa9
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0xaa9 atamy001_RockItOut_main.o
+
+.debug_frame    0x00000000      0x294
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x294 atamy001_RockItOut_main.o
+
+.debug_str      0x00000000      0x6fd
+ *(.debug_str)
+ .debug_str     0x00000000      0x6fd atamy001_RockItOut_main.o
+                                0x777 (size before relaxing)
+
+.debug_loc      0x00000000      0x76f
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x76f atamy001_RockItOut_main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x108
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x108 atamy001_RockItOut_main.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(atamy001_RockItOut_main.elf elf32-avr)
+LOAD linker stubs
