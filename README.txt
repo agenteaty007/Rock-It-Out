@@ -15,6 +15,10 @@ usart.h contains the functions to ease USART communication
 
 Under \other_files, you'll find some reports, Arduino code, and reference materials.
 
+Link to Demo Video
+---------------------------------
+https://youtu.be/1uPxHBodMcQ
+
 High Level Description of Project
 ---------------------------------
 The embedded system features the ATmega1284 that runs the game, menus, and interfaces all devices together. The LCD display shows information and text for the menus and game. The shift registers control the LED Matrix and provide players intuitive feedback, such as what notes to play and their score in a bargraph form. The Arduino UNO uses a microphone to pick up the sounds and analyzes them through some basic algorithms detecting peaks and nodes; then, it sends out a 2-byte package with the frequency obtained to the ATmega1284.
@@ -44,7 +48,3 @@ Programmer: 1 X OLIMEX AVR Programmer, and 1 X ICSP Adapter Board
 Power: 1 X 5V Power Supply Board, and 1 X 6V 1A Power Adapter
 Assorted components: Jumpers, 8 X 330 ohm Resistors, 1 X 10K ohm Potentiometer, 4 X Tactile Buttons
 Software: AVR Studio 6.2 and Arduino IDE 1.6.3
-
-Link to Demo Video
----------------------------------
-https://youtu.be/1uPxHBodMcQ
